@@ -7,9 +7,9 @@ export default function Home() {
       <main className="flex flex-col w-full max-w-5xl items-center justify-center py-20 px-6 sm:px-12">
         <div className="mb-12">
           <Image
-            className="dark:invert opacity-80"
-            src="/next.svg"
-            alt="Next.js logo"
+            className="opacity-80"
+            src="/logoRadio.webp"
+            alt="logo radio"
             width={120}
             height={24}
             priority
